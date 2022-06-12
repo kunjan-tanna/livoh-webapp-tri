@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="556" height="458" viewBox="0 0 556 458">
+  <g id="camera-on" transform="translate(-482 -2064)">
+    <g id="camera" transform="translate(504 2031)">
+      <g id="Group_2" data-name="Group 2">
+        <g id="Group_1" data-name="Group 1">
+          <circle id="Ellipse_1" data-name="Ellipse 1" cx="106.667" cy="106.667" r="106.667" transform="translate(149.333 170.666)" fill="#fff"/>
+          <path id="Path_1" data-name="Path 1" d="M469.333,106.667H401.677a31.825,31.825,0,0,1-22.635-9.375l-39-39a53,53,0,0,0-37.719-15.625H209.677a53,53,0,0,0-37.719,15.625l-39,39a31.825,31.825,0,0,1-22.635,9.375H42.667A42.708,42.708,0,0,0,0,149.333V426.666a42.709,42.709,0,0,0,42.667,42.667H469.334A42.709,42.709,0,0,0,512,426.666V149.333A42.71,42.71,0,0,0,469.333,106.667ZM256,405.333a128,128,0,1,1,128-128A128.14,128.14,0,0,1,256,405.333Zm170.667-192A21.333,21.333,0,1,1,448,192,21.361,21.361,0,0,1,426.667,213.333Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(482 2064)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="556" height="458" stroke="none"/>
+      <rect x="0.5" y="0.5" width="555" height="457" fill="none"/>
+    </g>
+  </g>
+</svg>

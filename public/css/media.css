@@ -1,0 +1,1419 @@
+@media (min-width: 768px) {
+  .liveChat.showchat {
+    right: 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .navigation ul li:hover .subMenu {
+    display: block;
+  }
+}
+
+@media (min-width: 1360px) {
+  .container {
+    max-width: 1200px !important;
+  }
+}
+
+@media (max-width: 1600px) {
+  .formMain {
+    max-width: 550px;
+  }
+}
+
+@media (max-width: 1439px) {
+  .formMain .form .field {
+    height: 55px;
+    margin-bottom: 20px;
+  }
+  .input-text {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .f-icon {
+    top: 20px;
+    font-size: 14px;
+  }
+  .passwordIcon {
+    top: 21px;
+  }
+  .control-group.rembeberme {
+    margin: 25px 0 10px 21px;
+  }
+  .blueBtn {
+    height: 55px;
+    font-size: 16px;
+  }
+  .loginWithSocialIcon h6 {
+    margin-bottom: 15px;
+  }
+  .infotext {
+    line-height: 22px;
+    padding: 8px 0 20px 0;
+  }
+  .signupMain .form {
+    padding: 20px 0 0 0;
+  }
+  .signinForm h2 {
+    max-width: 87%;
+  }
+}
+
+@media (max-width: 1366px) {
+  .navigation ul li{font-size: 12px;}
+  .bannerText h1 {
+    font-size: 32px;
+    line-height: 36px; margin-bottom: 15px;
+  }
+  .userBioDetail label,
+  .uploadImg,
+  .blueinnerBtn,
+  .pinkBtn,
+  .form-input .form-input-text,
+  .checkBoxOuter,
+  .userBioDetail span,
+  .upcomingEventMd9 .textOuter p,
+  .textLink {
+    font-size: 16px;
+  }
+  .bannerText h2 {
+    font-size: 16px;
+  }
+  .bannerImg {
+    padding-bottom: 8%;padding-top: 12%;
+  }
+  .upcomingEventMd9 h3 {
+    font-size: 18px;
+  }
+  .eventInfo span {
+    font-size: 14px;
+  }
+  .upcomingEventMd9 {
+    padding: 15px 10px 15px 15px;
+  }
+  /* .eventImg{height: 278px !important;} */
+  .eventOuter h3 {
+    font-size: 24px;
+  }
+  .labelOuter h4,
+  .eventOuter p {
+    font-size: 17px;
+  }
+  /* .navigation a {
+    font-size: 14px !important;
+  } */
+  .userPhoto {
+    width: 60px;
+    height: 60px;
+  }
+  .upcomingEventMd9 .labelOuter h4 {
+    font-size: 14px;
+  }
+  .labelOuter label {
+    padding: 7px 10px;
+  }
+  .upcomingEventMd9 .textOuter p {
+    font-size: 14px;
+  }
+  .upcomingEventMd9 .eventInfo span {
+    margin-bottom: 8px;
+  }
+  .upcomingEventMd9 .linkOuter {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 1280px) {
+
+  .eventImg{height: 250px !important;}
+  header {
+    padding: 15px 15px 10px ;
+  }
+  .navigation a, .navigation ul li{font-size: 12px !important;}
+  .userPhoto{margin-left: 20px;}
+  /* .eventImg{
+        height:190px !important;
+    } */
+  .paymentOptionUl {
+    margin: 0px -10px;
+  }
+  .paymentOptionUl li {
+    padding: 0 10px;
+  }
+  .eventOuter h3 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .labelOuter h4,
+  .eventInfo span {
+    font-size: 13px;
+  }
+  .eventInfo span {
+    margin-bottom: 5px;
+  }
+  .eventOuter p {
+    font-size: 16px;
+    line-height: 20px;
+    height: 64px;
+  }
+  .eventInfo span .i-icon {
+    font-size: 12px;
+    width: 13px;
+  }
+  .textLink {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .linkOuter {
+    padding-right: 15px;
+  }
+  /* .eventImg {
+    height: 230px !important;
+  } */
+  .labelOuter label {
+    font-size: 12px;
+  }
+  /*livechat*/
+  .leftBar {
+    padding: 37px 10px 0;
+    width: 55px;
+  }
+  .liveEventOuter .logoLeft img {
+    max-width: 30px;
+    margin: 0 auto;
+    display: block;
+  }
+  .liveEventOuter {
+    margin-left: 55px;
+  }
+  .topBarOuter {
+    left: 55px;
+    padding: 20px 15px;
+  }
+  .eventLogo img {
+    max-width: 50px;
+  }
+  .eventLogo {
+    padding-right: 10px;
+  }
+  .eventName h2 {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .eventName label {
+    font-size: 9px;
+  }
+  .eventName {
+    min-width: 120px;
+  }
+  .topBarMenu {
+    margin: 0 0 0 10px;
+  }
+  .topBarMenu li {
+    padding: 9px 20px 9px 20px;
+  }
+  .liveChat {
+    width: 250px;
+    padding: 20px 15px 0 15px;
+  }
+  .liveEventOuter.showlive {
+    margin-right: 250px;
+  }
+  .commentBox {
+    width: 220px;
+    bottom: 20px;
+  }
+  /* .message-form {
+    border-top: 1px solid #ccc;
+    width: 100%;
+    display: flex;
+    align-items: center;
+  } */
+  .showchat .commentBox {
+    right: 15px;
+  }
+  .commentBox textarea {
+    height: 110px;
+  }
+  .comment-bottom .blueSmallBtn {
+    font-size: 12px;
+    width: 100px;
+  }
+  .commentText p {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .scrollLiveChat {
+    height: calc(100vh - 290px) !important;
+  }
+  .liveChat .topBaruserPhoto {
+    padding-bottom: 20px;
+  }
+  .topOuterButton .blueSmallBtn,
+  .topOuterButton .greenSmallBtn {
+    width: 100px;
+  }
+  .showlive .topBarOuter {
+    right: 250px;
+  }
+  .centerButton .pinkSmallBtn {
+    font-size: 12px;
+    height: 40px;
+    width: 120px;
+    padding: 0 15px;
+  }
+  .rightBtn {
+    right: 30px;
+  }
+  .centerButton {
+    padding-right: 98px;
+    bottom: 30px;
+  }
+  .offering-icon {
+    right: 15px;
+    width: 14px;
+    height: 14px;
+  }
+  .userPic img {
+    width: 50px;
+    height: 50px;
+  }
+  .topOuterButton label {
+    font-size: 12px;
+    margin: 0 0 0 15px;
+  }
+  .topOuterButton label .fa-eye {
+    font-size: 12px;
+    margin-right: 8px;
+  }
+  .iconsLeftMenu {
+    width: 18px;
+    height: 18px;
+  }
+  .canceliconsLeftMenu {
+    background: transparent;
+    width: 34px;
+    height: 34px;
+    padding: 0;
+    
+    position: absolute;
+    top: 20px;
+    right: 20px;
+   
+}
+  .topBaruserPhoto {
+    padding-left: 60px;
+  }
+  .commentBox textarea {
+    font-size: 11px;
+    padding: 15px 15px;
+  }
+  .liveEventText {
+    right: 35px;
+  }
+}
+
+@media (max-width: 1199px) {
+  header {
+    padding: 15px 15px 10px 15px;
+  }
+
+  .bannerText h2 {
+    font-size: 18px;
+  }
+  .userBioDetail {
+    padding: 40px 40px;
+  }
+  .userBioDetail label,
+  .userBioDetail span,
+  .outerBox span,
+  .form-input-button {
+    font-size: 16px;
+    line-height: 18px;
+  }
+  .jointherevolutionBg p {
+    max-width: 70%;
+  }
+  footer p {
+    letter-spacing: 0.1px;
+  }
+  .filterDate .react-datepicker__input-container input,  .form-input .form-input-text,
+  .checkBoxOuter,
+  .custom-select-box select,
+  .eventFrom h4 {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .form-input,
+  .custom-select-box select,
+  .form-input-button {
+    height: 50px;
+    line-height: 50px;
+  }
+  .customTime .react-datepicker__input-container {
+    background-size: 15px;
+  }
+  .blueinnerBtn,
+  .pinkBtn {
+    font-size: 16px;
+    height: 55px;
+    line-height: 20px;
+  }
+  .eventFrom h3 {
+    font-size: 20px;
+    line-height: 24px;
+    padding-left: 16px;
+  }
+  .custom-select-box select {
+    background-position: 97.5% 22px;
+  }
+  .form-input .form-input-text,
+  .custom-select-box select {
+    padding: 0 15px;
+  }
+  .form-icon {
+    right: 20px;
+    font-size: 16px;
+    top: 17px;
+  }
+  .eventFrom h4 {
+    padding-left: 16px;
+  }
+  .transactionBox {
+    padding: 23px 15px 68px;
+  }
+  .transactionBox label {
+    letter-spacing: 2px;
+  }
+  .transactionBox h3 {
+    font-size: 30px;
+    line-height: 34px;
+  }
+  .transactionBox .front-card {
+    width: 120px;
+    height: 75px;
+    font-size: 9px !important;
+  }
+  .card-info img {
+    max-width: 27px !important;
+  }
+  .addCard {
+    width: 120px;
+    height: 75px;
+  }
+  .addCard i {
+    font-size: 40px;
+  }
+  .paymentMode .fundtransferBox label {
+    margin-bottom: 26px;
+  }
+  .paymentMethodCard label {
+    font-size: 15px;
+    line-height: 19px;
+  }
+  .input-card {
+    font-size: 16px;
+  }
+  .cardDetail label {
+    margin-bottom: 15px !important;
+  }
+  .cardDetail {
+    padding-bottom: 0;
+  }
+  .formMain {
+    max-width: 460px;
+  }
+  .blueBtn {
+    font-size: 17px;
+  }
+  .signinForm h2 {
+    max-width: 100%;
+  }
+  .staticPages {
+    padding-top: 120px;
+  }
+  .dropzone {
+    height: 200px;
+  }
+
+  .chooseAccount .formMain {
+    max-width: 100%;
+  }
+  .featuredEvents .upcomingEventRight h3 {
+    font-size: 24px;
+  }
+  .featuredEvents .upcomingEventRight p {
+    font-size: 16px;
+  }
+  .upcomingEventBox .upcomingEventDetail {
+    padding: 20px;
+  }
+  .upcomingEventDetail .upcomingEventDate {
+    width: 40px;
+    margin-right: 10px;
+  }
+  .upcomingEventRight h3 {
+    font-size: 12px;
+  }
+  .upcomingEventRight .location-time span {
+    font-size: 10px;
+  }
+  .featuredEvents .upcomingEventBox .upcomingEventPicture img {
+    height: 250px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .signinForm h2 {
+    font-size: 18px;
+  }
+  .input-text {
+    font-size: 14px;
+  }
+  .blueBtn {
+    font-size: 16px;
+    height: 55px;
+  }
+  .f-icon {
+    right: 25px;
+    top: 18px;
+  }
+  .formMain .form .field {
+    height: 55px;
+  }
+  .userPhoto {
+    width: 45px;
+    height: 45px;
+  }
+  .navigation ul li {
+    letter-spacing: 0;
+  }
+  .bannerText h1 {
+    letter-spacing: 2px;
+  }
+  .bannerText h2 {
+    font-size: 16px;
+  }
+  .bannerImg {
+    padding-top: 15%;
+  }
+  .userBioDetail {
+    motion-path: 40px;
+  }
+  .userBioDetail {
+    padding: 40px 20px;
+  }
+  .outerBox {
+    height: 200px;
+  }
+  .userBioDetail label,
+  .userBioDetail span {
+    letter-spacing: 0px;
+  }
+  .jointherevolutionBg {
+    padding: 50px 0;
+  }
+  .jointherevolutionBg h2 {
+    font-size: 34px;
+    line-height: 36px;
+  }
+  .jointherevolutionBg p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 24px;
+  }
+  .whiteBtn {
+    width: 250px;
+  }
+  .copyrightDiv {
+    margin-top: 10px;
+  }
+  .transactionBox label {
+    letter-spacing: 1px;
+    font-size: 11px;
+    margin: 0 auto 44px;
+  }
+  .transactionBox h3 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .transactionBox {
+    padding: 23px 15px 45px;
+  }
+  .transferRow h5 {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .transferRow h6 {
+    font-size: 13px;
+    line-height: 16px;
+  }
+  .fundInfo .blueSmallBtn {
+    margin-top: 10px;
+  }
+  .blueBtnCard {
+    height: 50px;
+  }
+  .input-card {
+    padding: 0 15px;
+    border-width: 1px;
+    font-size: 14px;
+    height: 55px;
+    border-radius: 15px;
+  }
+  .mastercardIcon {
+    right: 30px;
+    bottom: 16px;
+  }
+  .mastercardIcon img {
+    max-width: 28px;
+  }
+  .inputRight {
+    padding-right: 48px;
+  }
+  .helpIcon {
+    right: 30px;
+    bottom: 22px;
+    width: 14px;
+    height: 14px;
+  }
+  .reactOpswitch span {
+    letter-spacing: 1px;
+  }
+  .uploaded_img,
+  .editevent_img {
+    width: 150px;
+    height: 150px !important;
+  }
+  .uploadImg {
+    width: 230px;
+  }
+  .uploadPhotoOuter .blueinnerBtn {
+    max-width: 210px;
+  }
+
+  .myEvent {
+    padding-top: 40px;
+  }
+  .labelOuter h4 {
+    font-size: 11px;
+  }
+  .eventOuter h3 {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  /* .eventImg {
+    height: 210px !important;
+  } */
+  .eventOuter p {
+    font-size: 16px;
+    line-height: 18px;
+    height: 58px;
+  }
+  /* .textLink {
+    font-size: 11px;
+    line-height: 16px;
+  } */
+  .labelOuter h4,
+  .eventInfo span {
+    font-size: 11px;
+  }
+
+  /*livechat*/
+  .eventLogo {
+    display: none;
+  }
+  .eventName h2 {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .eventName {
+    min-width: 100px;
+  }
+  .topBarMenu li {
+    padding: 9px 15px 9px 15px;
+  }
+  .topOuterButton .blueSmallBtn {
+    margin-left: 5px;
+  }
+  .topOuterButton .blueSmallBtn,
+  .topOuterButton .greenSmallBtn {
+    width: 85px;
+  }
+  .topBarOuterBox {
+    min-height: 50px;
+  }
+  .commentBox textarea {
+    height: 90px;
+  }
+  .scrollLiveChat {
+    height: calc(100vh - 270px) !important;
+  }
+  .chooseAccount .blueBtn {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 991px) {
+  .homeBannerText {
+    width: 80%;
+  }
+  .homeBannerText h1 {
+    font-size: 60px;
+  }
+  .homeBannerText p {
+    font-size: 24px;
+  }
+  .homeFilterRow {
+    margin: 0 -15px;
+  }
+  .homeFilterRow .homeFilterBox {
+    margin: 0 15px;
+  }
+  .upcomingEvents, .featuredEvents {
+    padding: 40px 0;
+  }
+  .upcomingEventsHeader h3 {
+    font-size: 24px;
+  }
+  .eventFilter .custom-select-box {
+    margin-left: 20px;
+  }
+  .upcomingEventsContent {
+    margin-top: 0px;
+  }
+  .fullCenterSection {
+    padding: 80px 0;
+  }
+  .featuredEvents .title {
+    font-size: 24px;
+    margin-bottom: 0px;
+  }
+}
+
+@media (max-width: 767px) {
+  .uploadPhotoOuter .event_uploaded_img {
+    margin-bottom: 20px;
+  }
+  .upcomingEventMd9 .textOuter p {
+    margin: 0 auto;
+  }
+  .eventOuter {
+    padding: 15px;
+  }
+  .eventImg,
+  .eventOuter {
+    border-radius: 12px;
+  }
+  .linkOuter {
+    text-align: center !important;
+    margin: 10px 0 0;
+    padding-right: 0;
+  }
+  .page-link {
+    margin: 0 0rem;
+  }
+  .verificationDiv {
+    max-width: 100%;
+  }
+  .verificationDiv .logoLeft img {
+    max-width: 65px;
+  }
+  .verificationMassage {
+    padding: 30px 15px;
+  }
+  .verificationOuter h2 {
+    font-size: 24px;
+  }
+  .verificationOuter p {
+    font-size: 18px;
+    line-height: 24px;
+  }
+  .verificationOuter h4 {
+    font-size: 19px;
+  }
+  .modal-body {
+    padding: 30px 15px !important;
+  }
+  .bannerText {
+    text-align: center;
+  }
+  .loginMain {
+    height: auto;
+  }
+  .loginLeft {
+    width: 100%;
+    height: 250px;
+  }
+  .welcomeMsg img {
+    max-width: 90px;
+  }
+  .signinForm h2 {
+    max-width: 100%;
+  }
+  .signinForm h2 {
+    font-size: 16px;
+  }
+  .formMain {
+    max-width: 500px;
+    padding: 30px 15px;
+    margin-top: 20px;
+  }
+  .formMain .form .field {
+    margin-bottom: 25px;
+  }
+  .input-text {
+    padding: 0 55px 0 20px;
+  }
+  .f-icon {
+    right: 22px;
+    top: 18px;
+  }
+  .control-group.rembeberme {
+    margin: 0 0 11px 15px;
+  }
+  .blueBtn {
+    letter-spacing: 1px;
+  }
+  .infotext {
+    letter-spacing: 0.4px;
+  }
+  .nav-icon {
+    cursor: pointer;
+    z-index: 11;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    margin-top: 12px;
+  }
+  .nav-icon span {
+    display: block;
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background: #fff;
+    opacity: 1;
+    left: 0;
+    -webkit-transition: 0.25s ease-in-out;
+    -moz-transition: 0.25s ease-in-out;
+    -o-transition: 0.25s ease-in-out;
+    transition: 0.25s ease-in-out;
+  }
+  .nav-icon span:nth-child(1) {
+    top: 0;
+  }
+  .nav-icon span:nth-child(2) {
+    top: 8px;
+  }
+  .nav-icon span:nth-child(3) {
+    top: 16px;
+  }
+  .navigation {
+    text-align: right;
+    padding: 95px 23px 15px;
+    z-index: 10;
+    position: fixed;
+    right: -100%;
+    top: 0;
+    height: 100%;
+    background: #0e0833;
+    width: 100%;
+    transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    overflow-y: auto;
+  }
+  .navigation ul.text-right {
+    text-align: center !important;
+    margin-top: 20px;
+  }
+  .navigation ul li {
+    border-bottom: 1px solid #fff;
+  }
+  .navigation .subMenu ul li {
+    border-bottom: 1px solid #AFAFAF;
+  }
+  .navigation ul li+li {
+    margin-left: 0px;
+  }
+  .navigation ul li:hover .subMenu {
+    display: block;
+  }
+  .userPhoto {
+    margin-right: 20px;
+    margin-left: 0;
+  }
+  .menu-open .navigation {
+    right: 0;
+  }
+  .navigation ul li {
+    display: block;
+    margin-bottom: 15px;padding-bottom: 15px;
+  }
+  .subMenu{width: 100%;}
+  .navigation .subMenu ul li{font-size: 14px !important;}
+  .menu-open .nav-icon span:nth-child(1) {
+    opacity: 0;
+    width: 0%;
+  }
+  .menu-open .nav-icon span:nth-child(2) {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  .menu-open .nav-icon span:nth-child(3) {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    top: 8px;
+  }
+  .menu-open {
+    overflow: hidden;
+  }
+  .bannerText h1 {
+    letter-spacing: 0;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .bannerText h2 {
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 20px;
+    width: 100%;
+  }
+  .userBioDetail {
+    margin-top: 30px;
+    padding: 20px 20px;
+  }
+  .userBioDetail label,
+  .userBioDetail span,
+  .outerBox span {
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  .edit-detail {
+    margin-top: -20px;
+  }
+  .outerBox {
+    height: 150px;
+  }
+  .iconLink {
+    font-size: 26px;
+  }
+  .outerBox span {
+    margin-top: 10px;
+    letter-spacing: 0;
+  }
+  .userMoreOption > .row {
+    justify-content: center;
+  }
+  .jointherevolutionBg {
+    margin-top: 20px;
+  }
+  .jointherevolutionBg h2 {
+    font-size: 32px;
+    line-height: 36px;
+  }
+  .jointherevolutionBg p {
+    max-width: 100%;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .whiteBtn {
+    width: 200px;
+    height: 50px;
+  }
+  .footerLink,
+  footer .social-media {
+    justify-content: center !important;
+  }
+  .footerLink {
+    padding-bottom: 15px;
+  }
+  .copyrightDiv {
+    motion-path: 15px;
+  }
+  .outerProfile {
+    margin-top: 40px;
+    margin-bottom: 50px;
+  }
+  .editFrom {
+    margin-top: 30px;
+  }
+  .filterDate .react-datepicker__input-container input,  .form-input-text,
+  .checkBoxOuter,
+  .custom-select-box select,
+  .eventFrom h4,
+  .form-input .form-input-text {
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0;
+  }
+  .custom-select-box select {
+    background-position: 95% 20px;
+  }
+  .form-input.textareaFrom {
+    height: 150px;
+  }
+  .checkBoxOuter {
+    padding-left: 45px;
+  }
+  .button-outer .pinkBtn {
+    margin-bottom: 10px;
+  }
+  .blueinnerBtn,
+  .pinkBtn,
+  .makePayment .cardBtn {
+    font-size: 14px;
+    height: 50px;
+    line-height: 18px;
+    letter-spacing: 0;
+  }
+  .eventFrom h3 {
+    padding-left: 0;
+    font-size: 18px;
+    line-height: 22px;
+  }
+  .eventOuter {
+    text-align: center;
+  }
+  .eventImg.w-100 {
+    width: 250px !important;
+    margin-bottom: 30px;
+  }
+  textarea.form-input-text {
+    padding: 15px;
+  }
+  .transactionBox label {
+    letter-spacing: 1px;
+    max-width: 97%;
+    margin: 0 auto 30px;
+  }
+  .transactionBox {
+    margin-bottom: 30px;
+  }
+  .addCard {
+    width: 116px;
+  }
+  .paymentMode .transactionBox {
+    height: auto;
+  }
+  .rightArrow {
+    position: relative;
+    top: 0;
+    left: 50%;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: -10px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+  .fundInfoDiv {
+    letter-spacing: 0.5px;
+  }
+  .paymentMode .transactionBox {
+    margin-bottom: 0;
+  }
+  .fundInfo {
+    margin-top: 25px;
+  }
+  .linkedPaymentTable .transactionBox label {
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+  .makePayment .transactionBox {
+    padding: 0;
+  }
+  .paymentMode .transactionBox label {
+    margin-bottom: 20px;
+  }
+  .paymentMethodCard {
+    margin-top: 30px;
+  }
+  .cardDetail {
+    margin-top: 30px;
+  }
+  .cardDetail label {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .input-card {
+    height: 50px;
+    font-size: 13px;
+  }
+  .mastercardIcon img {
+    max-width: 24px;
+  }
+  .cardDetail .col-md-6 {
+    margin-bottom: 25px;
+  }
+  .reactOpswitch span {
+    font-size: 14px;
+  }
+  .uploaded_img {
+    width: 120px;
+    margin: 0 auto;
+    height: 120px;
+  }
+  .uploadImg {
+    margin-left: 0;
+    font-size: 14px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    width: 210px;
+    height: 50px;
+    line-height: 55px;
+  }
+  .uploadIcon {
+    width: 16px;
+    height: 16px;
+  }
+  .uploadPhotoOuter {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .uploadPhotoOuter .uploaded_img {
+    height:120px !important;
+  }
+  .uploadPhotoOuter .blueinnerBtn {
+    margin-left: 0;
+  }
+  .paymentOptionUl li {
+    padding: 0 5px;
+  }
+  .paymentOptionUl {
+    margin: 0px -5px;
+  }
+  .transactionBox .front-card {
+    width: 116px;
+  }
+  .leftBar {
+    display: none;
+  }
+  .liveEventOuter {
+    margin-left: 0;
+  }
+  .topBarOuter {
+    left: 0;
+    padding: 15px 15px;
+  }
+  .showlive .topBarOuter {
+    right: 0;
+  }
+  .liveEventOuter.showlive {
+    margin-right: 0;
+  }
+  .showchat .commentBox {
+    right: -100%;
+  }
+  .liveChat.showchatmobile {
+    right: 0;
+  }
+  .showchatmobile .commentBox {
+    right: 15px;
+    width: 90%;
+  }
+  .liveChat {
+    width: 100%;
+    z-index: 99;
+  }
+  .backArrow {
+    transform: rotate(180deg);
+    background: transparent;
+    color: #fff;
+    float: left;
+    font-size: 20px;
+    margin-top: 3px;
+    padding: 0;
+  }
+  .showlive .topBarOuter .topBaruserPhoto {
+    display: flex !important;
+    margin: 0;
+    padding: 0;
+  }
+  .eventImg {
+    height: auto !important;
+  }
+  .iconsLeftMenu {
+    margin-left: 15px;
+  }
+  .topBarOuter .logoLeft img {
+    max-width: 40px;
+  }
+  .userPic img {
+    width: 40px;
+    height: 40px;
+  }
+  .userOption label {
+    font-size: 12px;
+  }
+  .topOuterButton {
+    position: absolute;
+    z-index: 9;
+    top: 100px;
+    width: 100%;
+    justify-content: center;
+  }
+  .topOuterButton .blueSmallBtn,
+  .topOuterButton .greenSmallBtn {
+    width: 100px;
+    margin: 0 5px !important;
+  }
+  .centerButton {
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 70px;
+  }
+  .expandScreen {
+    display: inline-block !important;
+  }
+  .iconsLeftMenu.compressScreen {
+    display: none !important;
+  }
+  .rightBtn {
+    right: 15px;
+  }
+  .rightBtn .topOuterButton {
+    display: block !important;
+    position: relative;
+    top: 0;
+  }
+  .middleBtn .pinkSmallBtn {
+    margin: 0 5px;
+    width: 105px;
+    padding: 0 10px;
+    letter-spacing: 0.5;
+  }
+  .offering-icon {
+    right: 10px;
+    width: 12px;
+    height: 12px;
+  }
+  .logoutClass {
+    color: #fff;
+    font-size: 20px;
+    margin-left: 15px;
+  }
+  .logoutClass:hover {
+    color: #fd5a7f;
+  }
+  .uploadPhotoOuter .blueinnerBtn {
+    max-width: 140px;
+  }
+
+  .dropzone {
+    height: 150px;
+  }
+  .dropzone img {
+    max-width: 80%;
+  }
+  .bannerImg {
+    padding-top: 120px;
+    padding-bottom:60px;
+  }
+  .dropzone img {
+    max-width: 70%;
+  }
+
+  .liveEventText {
+    position: relative;
+    top: 0;
+    right: 0;
+    margin-bottom: 10px;
+  }
+  .eventOuter h3 {
+    padding-right: 0;
+  }
+
+  .customDate .react-datepicker__input-container {
+    background-position: 94%;
+    background-size: 15px;
+  }
+  .customTime .react-datepicker__input-container {
+    background-position: 94%;
+    background-size: 15px;
+  }
+
+  .chooseAccount .blueBtn {
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .chooseAccount h2 {
+    font-size: 18px;
+  }
+
+  .UpcomingeventOuter {
+    text-align: center;
+  }
+  .UpcomingeventOuter {
+    margin-bottom: 30px;
+  }
+  .UpcomingeventOuter .eventImg.w-100 {
+    margin: 0px auto;
+    width: auto !important;
+    max-width: 100%;
+  }
+  .upcomingEventMd9 {
+    border-radius: 0 0 12px 12px;
+  }
+  .eventUpComing .eventImg,
+  .eventUpComing .eventOuter {
+    border-radius: 12px 12px 0 0;
+  }
+  .canceliconsLeftMenu img {
+    display: none;
+  }
+  .canceliconsLeftMenu .cancelWhite {
+    display: block;
+  }
+  .homeBannerText {
+    width: 90%;
+    text-align: center;
+  }
+  .homeBannerText h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+    letter-spacing: 0px;
+  }
+  .homeBannerText h1 br {
+    display: none;
+  }
+  .homeBannerText p {
+    font-size: 16px;
+  }
+  .homeBannerText p br {
+    display: none;
+  }
+  .homeBanner .homeBannerArrow {
+    font-size: 30px;
+  }
+  .homeFilter {
+    padding: 0px;
+  }
+  .homeFilterRow {
+    flex-direction: column;
+    margin: 0px;
+  }
+  .homeFilterRow .homeFilterBox {
+    width: 100%;
+    margin: 15px;
+  }
+  .homeFilterRow .FilterSearch .btnFilterSearch {
+    width: 100%;
+    height: 50px;
+  }
+  .homeFilterRow .homeFilterBox.FilterSearch {
+    margin: 15px 0;
+  }
+  .upcomingEventsHeader {
+    flex-direction: column;
+  }
+  .upcomingEventsHeader .eventFilter {
+    flex-direction: column;
+    width: 100%;
+  }
+  .upcomingEventsHeader .eventFilter .custom-select-box {
+    width: 100%;
+    margin: 10px 0;
+  }
+  .upcomingEventBox .upcomingEventPicture img {
+    height: auto;
+  }
+  .upcomingEventBox {
+    margin-top: 20px;
+  }
+  .upcomingEventRight p {
+    font-size: 12px;
+  }
+  .upcomingEventRight h3 {
+    font-size: 16px;
+  }
+  .upcomingEventRight .location-time {
+    flex-direction: column;
+  }
+  .upcomingEventRight .location-time span {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+  .upcomingEventRight .location-time span svg {
+    font-size: 14px;
+  }
+  .upcomingEventRight .location-time span:last-child {
+    margin-bottom: 0px;
+  }
+  .upcomingEvents .btnLoadMore {
+    margin-top: 40px;
+  }
+  .fullCenterSection {
+    padding: 40px 15px;
+  }
+  .fullCenterSection h3 {
+    font-size: 24px;
+  }
+  .fullCenterSection p {
+    font-size: 16px;
+    margin: 20px 0;
+  }
+  .fullCenterSection p br {
+    display: none;
+  }
+  .fullCenterSection .btnWhite {
+    min-width: 100%;
+    height: 50px;
+  }
+  .featuredEvents .upcomingEventBox {
+    flex-direction: column;
+  }
+  .featuredEvents .upcomingEventBox .upcomingEventPicture img {
+    height: 200px;
+    border-radius: 12px 12px 0 0;
+  }
+  .upcomingEventPicture .price-like {
+    top: 10px !important;
+    padding: 0 15px !important;
+  }
+  .featuredEvents .featuredEventsDate {
+    left: 15px;
+    bottom: 15px;
+  }
+  .featuredEvents .upcomingEventRight h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  .featuredEvents .upcomingEventRight p {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .btnPurple {
+    height: auto;
+    padding: 12px 40px;
+    font-size: 14px;
+  }
+  .upcomingEventPicture .price-like label {
+    padding: 5px 16px 4px 16px;
+  }
+  .homeBanner {
+    height: 50vh;
+  }
+  .featuredEvents .title {
+    text-align: center;
+  }
+}
+
+@media (max-width: 320px) {
+  .button-outer .col-6 {
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+  .signupText {
+    letter-spacing: 2.2px;
+  }
+}

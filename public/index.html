@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/LivOH-fv-icon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="description" content="Web site created using create-react-app" />
+  <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+  <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+  <title>LivOH</title>
+
+  <!-- import css file -->
+  <link href="./css/all.min.css" rel="stylesheet">
+  <link href="./css/styles.css" rel="stylesheet">
+  <link href="./css/media.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.typekit.net/dxj5bfp.css">
+  
+  
+  <!-- import js files -->
+  <!-- <script src="./js/jquery.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script> -->
+    <!-- <script src="./js/animate.js"></script> -->
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/all.min.js"></script>
+    <!-- <script src="./js/imagesloaded.pkgd.min.js"></script>
+    <script src="./js/jquery-imagefill.min.js"></script> -->
+    <script src="https://kit.fontawesome.com/60b085ee8f.js" crossorigin="anonymous"></script>
+  <script>
+    $(document).ready(function () {
+
+
+      $('.navigation  ul li a ').on("click", function (e) {
+       
+        $(this).next('.subMenu').toggle();
+        e.stopPropagation();
+        e.preventDefault();
+      });
+
+      // $(".verificationOuter").css("height", $(window).height());
+      // $(".imagefill").imagefill();
+
+      // $(window).resize(function () {
+      //   $(".imagefill").imagefill();
+
+      // })
+
+    //   $('.navigation ul li a').click(function (e) {
+   
+    //    $("body").removeClass("menu-open")
+    // });
+
+
+
+      $(".nav-icon").click(function (e) {
+        e.stopImmediatePropagation();
+        $("body").toggleClass("menu-open")
+      })
+     
+   
+      $(window).scroll(function () {
+        
+        var scroll = $(window).scrollTop();
+       
+        if (scroll > 0) {
+          $("header").addClass("smallHeader");
+        } else {
+          $("header").removeClass("smallHeader");
+        }
+
+      });
+
+
+    });
+
+
+  </script>
+  <script async defer crossorigin="anonymous"
+    src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2&appId=192610122354836&autoLogAppEvents=1"></script>
+  <script>
+    if ('%NODE_ENV%' == 'development') {
+      window.fbAsyncInit = function () {
+        FB.init({
+          appId: '192610122354836',
+          autoLogAppEvents: true,
+          xfbml: true,
+          version: 'v3.2'
+        });
+      };
+    }
+    else {
+      window.fbAsyncInit = function () {
+        FB.init({
+          appId: '192610122354836',
+          autoLogAppEvents: true,
+          xfbml: true,
+          version: 'v3.2'
+        });
+      };
+    }
+
+  </script>
+  <script src="./js/facebooksdk.js"></script>
+
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+
+</body>
+
+</html>

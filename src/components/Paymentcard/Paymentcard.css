@@ -1,0 +1,9 @@
+
+.card-info {
+display: flex;
+flex-direction: column;
+}
+.card-info p{
+  margin-top:26px;
+  text-align: center;
+}
